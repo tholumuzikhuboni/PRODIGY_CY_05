@@ -1,5 +1,5 @@
 
-# Packet Sniffer Cybersecurity Project  
+# Packet Sniffer 
 
 This repository contains a packet sniffer tool developed as part of my cybersecurity internship at Prodigy Infotech. The tool captures and analyzes network packets, displaying details such as source and destination IP addresses, protocols, and payload data.  
 
@@ -21,8 +21,8 @@ This repository contains a packet sniffer tool developed as part of my cybersecu
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/packet-sniffer-cybersecurity-project.git
-   cd packet-sniffer-cybersecurity-project
+   git clone https://github.com/tholumuzikhuboni/PRODIGY_CY_05.git
+   cd PRODIGY_CY_05
    ```  
 
 2. Run the script:  
